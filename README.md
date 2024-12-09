@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isabel Domínguez Jiménez</h1>
 <h3 align="center">Phiscist, programmer, developer, and data scientist</h3>
 
-- 👨‍💻 All of my projects are available at [isadoji@gmail.com](isadoji@gmail.com)
+- 👨‍💻 All of my projects are available at https://github.com/isadoji
 
-- 📫 How to reach me **https://www.linkedin.com/in/isadoji404/**
+- 📫 How to reach me at [isadoji@gmail.com](isadoji@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
