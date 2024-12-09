@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isabel Domínguez Jiménez</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Phiscist, programmer, developer, and data scientist</h3>
 
 - 👨‍💻 All of my projects are available at https://github.com/isadoji
