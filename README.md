@@ -6,12 +6,7 @@ My academic background includes a PhD in Physics from the National Autonomous Un
 
 👨‍💻 You can find my projects  on [github](https://github.com/isadoji)  and published researchand on [Google Scholar](https://scholar.google.es/citations?hl=es&user=Cp2yaAUAAAAJ).
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isadoji404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isadoji404" height="30" width="40" /></a>
-</p>
-📫 [isadoji@gmail.com](isadoji@gmail.com)
+📫 Connect with me by mail: [isadoji@gmail.com](isadoji@gmail.com) or [Linkedin](https://linkedin.com/in/isadoji404)
 
 
 <h3 align="left">Languages and Tools:</h3>
