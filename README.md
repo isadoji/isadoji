@@ -1,3 +1,16 @@
+## 💫 About Me:
+
+I am Isabel Domínguez Jiménez, a Data Scientist, Educator, and Researcher with over 12 years of experience in higher education and scientific research. My expertise lies in advanced programming, data analysis, machine learning, and Monte Carlo simulations. I am passionate about leveraging technology and data-driven insights to solve complex problems and drive innovation.
+
+My academic background includes a PhD in Physics from the National Autonomous University of Mexico, specializing in high-energy particle interactions, and a recent certification in Data Science from TripleTen, where I honed my skills in predictive modeling and data visualization.
+
+👨‍💻 You can find my projects and published research on [github](https://github.com/isadoji) and [Google Scholar](https://scholar.google.es/citations?hl=es&user=Cp2yaAUAAAAJ).
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/isadoji404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isadoji404" height="30" width="40" /></a>
+</p>
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Phiscist, programmer, developer, and data scientist</h3>
 
